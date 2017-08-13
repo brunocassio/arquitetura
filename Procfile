@@ -1,1 +1,1 @@
-web: java -jar target/arquitetura-1.0-SNAPSHOT.jar.original
+web: java -jar target/arquitetura-1.0-SNAPSHOT.war
