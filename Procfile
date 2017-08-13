@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* Application
+web: java -jar target/arquitetura-1.0-SNAPSHOT.jar
